@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Battery from "@Components/Battery.svelte";
+	import Battery from "@Components/Battery/Battery.svelte";
 
 	import type { Vehicle } from "@Types/vehicle.type";
 

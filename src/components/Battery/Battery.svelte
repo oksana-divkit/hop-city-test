@@ -1,4 +1,6 @@
 <script lang="ts">
+    // import './styles.css';
+
     export let value: Number;
 </script>
 
